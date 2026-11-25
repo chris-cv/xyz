@@ -1,4 +1,4 @@
 # xyz
 this is my  1st first repo
 <br>
-diimy dimmy 100 100
+diimy dimmy 100 100 100
